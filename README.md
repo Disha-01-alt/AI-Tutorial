@@ -25,4 +25,4 @@ Welcome to the official repository for the 2025 Artificial Intelligence course. 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/ai-fall-2025.git
+   git clone https://github.com/Disha-01-alt/AI-Tutorial.git
